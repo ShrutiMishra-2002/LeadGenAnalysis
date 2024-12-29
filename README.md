@@ -2,7 +2,7 @@
 
 Data Analysis for a lead generation company that has a B2B business model.
 
-##Analysis Performed
+## Analysis Performed
 
 1. Top and Bottom N Clients: Analyzed and ranked clients based on key metrics such as total revenue and total chats.
 
@@ -16,7 +16,7 @@ Data Analysis for a lead generation company that has a B2B business model.
 
 6. 6-Month Forecast: Predict revenue for all clients over the next 6 months using forecasting model Holt-Winters (time-series forecasting technique).
 
-##Technologies Used
+## Technologies Used
 Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
 Visualization Tools: Matplotlib, Seaborn
