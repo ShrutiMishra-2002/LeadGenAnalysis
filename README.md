@@ -17,7 +17,7 @@ Data Analysis for a lead generation company that has a B2B business model.
 6. 6-Month Forecast: Predict revenue for all clients over the next 6 months using forecasting model Holt-Winters (time-series forecasting technique).
 
 ## Technologies Used
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
-Visualization Tools: Matplotlib, Seaborn
-Forecasting Method: Holt-Winters
+1. Programming Language: Python
+2. Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn
+3. Visualization Tools: Matplotlib, Seaborn
+4. Forecasting Method: Holt-Winters
